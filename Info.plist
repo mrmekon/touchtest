@@ -1,0 +1,11 @@
+CFBundleName = touchtest;
+CFBundleDisplayName = TouchTest;
+CFBundleIdentifier = "com.trevorbentley.touchtest";
+CFBundleExecutable = touchtest;
+
+CFBundleVersion = "0.0.2";
+CFBundleInfoDictionaryVersion = "6.0";
+CFBundlePackageType = APPL;
+CFBundleSignature = xxxx;
+
+LSMinimumSystemVersion = "10.12.0";
